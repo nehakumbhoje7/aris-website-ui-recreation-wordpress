@@ -1,4 +1,4 @@
-# aris-website-ui-recreation-wordpress
+# Aris-Website-UI-Recreation-Wordpress
 
 ## Project Type
 Practice / Learning Project
